@@ -17,8 +17,8 @@ Simon Says is a classic memory game where players must repeat sequences of color
 ```
 Simon-Says/
 │── index.html  # Game structure
-│── styles.css   # Interface styling
-│── game.js    # Game logic
+│── styles.css  # Interface styling
+│── game.js     # Game logic
 └── README.md   # Documentation
 ```
 
